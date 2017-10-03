@@ -30,7 +30,7 @@ inquirer
         fs.appendFile("log.txt", "---------------------------\r\nBasic Flaschcard:\r\nFront: " +
   	  	  Basic.front + "\r\nBack: " + Basic.back + "\r\n", function(err) {
   	  	  if(err){
-            return console.log(err);
+  	  	  	return console.log(err);
   	  	  }
         });
       });
@@ -54,7 +54,7 @@ inquirer
   	  	  Cloze.fullText + "\r\nCloze: " + Cloze.cloze + "\r\nPartial Text: " + Cloze.partial +
   	  	  "\r\n", function(err) {
   	  	  if(err){
-            return console.log(err);
+  	  	  	return console.log(err);
   	  	  }
   	  	});
   	  });
