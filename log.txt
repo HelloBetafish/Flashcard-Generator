@@ -1,0 +1,14 @@
+---------------------------
+Basic Flaschcard:
+Front: Who is Alex's fav music artist?
+Back: Taylor Swift
+---------------------------
+Cloze Flashcard:
+Full text: Alex and Carson are the best TA's!
+Cloze: Alex and Carson
+Partial Text: ... are the best TA's!
+---------------------------
+Cloze Flashcard:
+Full text: George Washington was the first president of the United States.
+Cloze: Beth Washington
+Partial Text: Oops! The cloze does not exist in the question. Please review and try again.
