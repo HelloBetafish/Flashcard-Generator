@@ -36,7 +36,7 @@ inquirer
       });
   	}
   	else if (response.type === "Cloze"){
-      inquirer.prompt(
+      inquirer.prompt([
   	    {
   	      type: "input",
   	      message: "What is the question?",
